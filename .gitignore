@@ -91,3 +91,6 @@ ENV/
 
 # VSCode project settings
 .vscode/
+
+# datasets
+datasets/
